@@ -1,11 +1,14 @@
 # Vim-Nox
-# Help
--- Help App (Help) --
+How to timer 
+bin python 3.6
+;-)
+# Hel
+Help App (Help)
  <br>
--- Exit App (Exit) --
+Exit App (Exit)
 <br>
---Give Time--Started (GT) --
+Give Time--Started (GT)
 <br>
---Doneait Me (DT) --
+Doneait Me (DT)
 <br>
---Creator (C) --
+Creator (C)
