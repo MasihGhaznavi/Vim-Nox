@@ -1,8 +1,10 @@
 # Vim-Nox
-How to timer 
-bin python 3.6
-;-)
-# Hel
+<h3>How to timer</h3>
+<br>
+<h3>bin python 3.6</h3>
+<br>
+<h3>;-)</h3>
+# Help
 Help App (Help)
  <br>
 Exit App (Exit)
