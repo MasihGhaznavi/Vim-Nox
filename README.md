@@ -1,11 +1,11 @@
 # Vim-Nox
 # Help
--- Help App (Help)
+-- Help App (Help) --
  <br>
--- Exit App (Exit)
+-- Exit App (Exit) --
 <br>
---Give Time--Started (GT)
+--Give Time--Started (GT) --
 <br>
---Doneait Me (DT)
+--Doneait Me (DT) --
 <br>
---Creator (C)
+--Creator (C) --
